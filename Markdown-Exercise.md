@@ -37,6 +37,18 @@ Here is a table of different coding models
 - [x] Add Table
 - [x] Add Footnotes
 
+Here is a list of my favorite things too do
+
+1. Watch sports
+2. Play games
+3. Enjoy time with family 
+
+Here is a List of things I need to do today
+
+* Wash clothes
+* Do homework
+* Cook Food
+
 ### Footnotes
 
 Additional information 
